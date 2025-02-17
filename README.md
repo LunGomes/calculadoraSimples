@@ -1,1 +1,1 @@
-Calculadora simples feita num app Angular
+Calculadora simples feita em um app Angular
